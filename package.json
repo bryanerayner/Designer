@@ -1,0 +1,12 @@
+{
+  "name": "Designer",
+  "description": "A web design and authoring tool bridging the gap between visual design and implementation.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
